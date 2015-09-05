@@ -2,7 +2,6 @@
 logic game where you have to remove items from the stacks containing 3, 5 and 7 items until there is only one left (the player who gets the last item loses).
 
 the game starts with the 3 stacks that we will call A, B and C contaning all of their items (A = 3 , B = 5, C = 7):
-
     A        B        C
    x x     x x x    x x x x
    
