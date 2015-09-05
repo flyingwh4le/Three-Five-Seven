@@ -4,9 +4,9 @@ logic game where you have to remove items from the stacks containing 3, 5 and 7 
 the game starts with the 3 stacks that we will call A, B and C contaning all of their items (A = 3 , B = 5, C = 7):
 
     A        B        C
-   x x     x x x    x x x x
+   x x     x x x    x x x x
    
-   x        x x      x x x
+   x        x x      x x x
  
  Then each player takes turns removing any number of items from a stack on their turn. A player can remove items from only one stack on their turn, so either stack A or B or C. 
  
